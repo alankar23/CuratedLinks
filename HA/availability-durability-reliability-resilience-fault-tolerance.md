@@ -1,5 +1,9 @@
 # Availability vs Durability vs Reliability vs Resilience vs Fault Tolerance
 
+## Main Web Article
+[Datacore: Availability vs Durability vs Reliability vs Resilience vs Fault Tolerance](https://www.datacore.com/blog/availability-durability-reliability-resilience-fault-tolerance/)
+
+
 ### Mission-Critical Data Storage Metrics That Matter Most
 
 There is nothing certain but the uncertain.
