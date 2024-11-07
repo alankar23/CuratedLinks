@@ -57,3 +57,7 @@ Each Vault connection serves a single database.
 
 Vault generates temporary users, assigns them predefined (i.e rw_role we created) roles, and enforces expiration—automatically revoking access and deleting users after expiration.
 
+
+
+Refrence:
+-  https://developer.hashicorp.com/vault/tutorials/db-credentials/database-secrets?variants=vault-deploy%3Aselfhosted
